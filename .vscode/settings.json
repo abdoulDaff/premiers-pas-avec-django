@@ -9,5 +9,5 @@
   "python.linting.pep8Args": ["--ignore=E501"],
   "files.exclude": {
     "**/*.pyc": true
-  }
+  },
 }
