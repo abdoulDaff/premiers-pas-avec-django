@@ -1,4 +1,4 @@
-# premiers-pas-avec-pjango
+# premiers-pas-avec-django
 Premiers pas avec Django
 
 # Install django 
