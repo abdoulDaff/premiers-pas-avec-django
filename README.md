@@ -20,7 +20,8 @@ Premiers pas avec Django
 
 # Run server
 
-**python manage.py migrate
+**python manage.py migrate**
+
 **python manage.py runserver**
 
 # Create Application with Django leads
