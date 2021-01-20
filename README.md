@@ -4,28 +4,28 @@ Premiers pas avec Django
 
 # Install django
 
-## Create virtual environment with venv
+> ## Create virtual environment with venv
 
-> **C:\\...premiers-pas-avec-django>python -m venv env**
+> > **C:\\...premiers-pas-avec-django>python -m venv env**
 
-## Activate environment
+> ## Activate environment
 
-> **>env\Scripts\activate**
+> > **C:\\...\\premiers-pas-avec-django>env\Scripts\activate**
 
-## Intall Django with pip
+> ## Intall Django with pip
 
-> **>pip install django==3.1.4**
+> > **C:\\...\\premiers-pas-avec-django>pip install django==3.1.4**
 
 # Create Project with django djcrm
 
-> **>django-admin startproject djcrm**
+> **C:\\...\\premiers-pas-avec-django>django-admin startproject djcrm**
 
 # Run server
 
-> **>python manage.py migrate**
+> **C:\\...\\premiers-pas-avec-django>python manage.py migrate**
 
 **python manage.py runserver**
 
 # Create Application with Django leads
 
-> **>python manage.py startapp leads**
+> **C:\\...\\premiers-pas-avec-django>python manage.py startapp leads**
