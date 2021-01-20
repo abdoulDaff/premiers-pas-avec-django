@@ -6,6 +6,7 @@ from .models import Lead
 
 
 def lead_list(request):
+    """  Lead detail views """
     leads = Lead.objects.all()
     context = {
         "leads": leads,
@@ -14,6 +15,7 @@ def lead_list(request):
 
 
 def lead_detail(request, pk):
+    """  Lead list views """
     lead = Lead.objects.get(id=pk)
     context = {
         "lead": lead,
