@@ -1,6 +1,6 @@
 # premiers-pas-avec-django
 
-Premiers pas avec Django
+***Premiers pas avec Django***
 
 # Install django
 
