@@ -5,4 +5,5 @@ from django.http import HttpResponse
 
 
 def home_page(request):
-    return render(request, "second_page.html")
+    context = {}
+    return render(request, "second_page.html", context)
