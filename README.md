@@ -6,7 +6,7 @@ Premiers pas avec Django
 
 ## Create virtual environment with venv
 
-> **C:\\...\premiers-pas-avec-django>python -m venv env**
+> **C:...premiers-pas-avec-django>python -m venv env**
 
 ## Activate environment
 
