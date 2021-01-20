@@ -1,9 +1,11 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from .models import Lead
 
-# Create  views.
+# Create views.
 
 
 def home_page(request):
-    context = {}
+    leads = Lead.objects.all()
+    context = {"leads": leads, }
     return render(request, "second_page.html", context)
