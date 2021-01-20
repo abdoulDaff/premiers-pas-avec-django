@@ -1,6 +1,6 @@
 # premiers-pas-avec-django
 
-***Premiers pas avec Django***
+**_Premiers pas avec Django_**
 
 # Install django
 
@@ -16,7 +16,7 @@
 
 > > **C:\\...\\premiers-pas-avec-django>pip install django==3.1.4**
 
-# Create Project with django djcrm
+# Create Project django djcrm
 
 > **C:\\...\\premiers-pas-avec-django>django-admin startproject djcrm**
 
@@ -26,6 +26,6 @@
 
 **python manage.py runserver**
 
-# Create Application with Django leads
+# Create Application Django leads
 
 > **C:\\...\\premiers-pas-avec-django>python manage.py startapp leads**
