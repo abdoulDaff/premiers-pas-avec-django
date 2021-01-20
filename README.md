@@ -6,7 +6,7 @@ Premiers pas avec Django
 
 ## Create virtual environment with venv
 
-** >python -m venv env**
+> **python -m venv env**
 
 ## Activate environment
 
