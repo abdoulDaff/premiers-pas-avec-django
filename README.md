@@ -1,16 +1,18 @@
 # premiers-pas-avec-django
+
 Premiers pas avec Django
 
-# Install django 
-  ## Create virtual environment with venv
+# Install django
 
-**python -m venv env**
+## Create virtual environment with venv
 
-  ## Activate environment
+** >python -m venv env**
+
+## Activate environment
 
 **env\Scripts\activate**
-  
-  ## Intall Django with pip
+
+## Intall Django with pip
 
 **pip install django==3.1.4**
 
@@ -27,4 +29,3 @@ Premiers pas avec Django
 # Create Application with Django leads
 
 **python manage.py startapp leads**
-
